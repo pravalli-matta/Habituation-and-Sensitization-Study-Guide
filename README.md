@@ -19,7 +19,7 @@ This project breaks down:
 ## 👩‍🔬 About the Author
 
 **Pravalli Matta**  
-*PhD Student in Cognitive Science*  
+*B.Tech-MSc Dual Degree Student in Cognitive Science*  
 **Indian Institute of Technology (IIT) Gandhinagar**  
 *Research Focus: Decision-making, fMRI, EEG, Neural Correlates, and Cognitive Psychology.*
 
