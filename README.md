@@ -21,5 +21,5 @@ This project breaks down:
 **Pravalli Matta**  
 *B.Tech-MSc Dual Degree Student in Cognitive Science*  
 **Indian Institute of Technology (IIT) Gandhinagar**  
-*Research Focus: Decision-making, fMRI, EEG, Neural Correlates, and Cognitive Psychology.*
+*Research Focus: learning and memory, Decision-making, fMRI, EEG, Neural Correlates, and Cognitive Psychology.*
 
