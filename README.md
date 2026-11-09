@@ -1,25 +1,38 @@
-# 🧠 Habituation and Sensitization Study Guide: The Aplysia Files
+# Habituation and Sensitization: The Aplysia Files
 
-This is an interactive study guide focusing on the neural mechanisms of habituation and sensitization, using *Aplysia californica* as the model organism.
+An interactive, case-based study guide on the neural mechanisms of habituation and sensitization, using the gill-withdrawal reflex of *Aplysia californica* as its central example.
 
-## 🌐 View the Interactive Guide
-The guide is designed in Canva and can be viewed directly here:
-[Habituation & Sensitization Study Guide](https://pravalli.my.canva.site/habituation-sensitization-study-guide)
+The guide follows a case-investigation format: behavioural changes are treated as clues, neural circuits are mapped, and synaptic and molecular mechanisms are used to build an explanation of learning.
 
-*(You can also open the `index.html` file in this repository to view it embedded).*
+## Explore the Guide
 
-## 📖 About the Project
-This project breaks down:
-- **Behavioral Clues:** Habituation, Sensitization, Spontaneous Recovery, and Dishabituation.
-- **Circuit Mapping:** The gill-withdrawal reflex circuit (LE sensory, L7 motor, L29 modulatory neurons).
-- **Molecular Verdict:** The serotonin (5-HT) → cAMP → PKA → K⁺ channel pathway underlying short-term and long-term facilitation.
+[Open the interactive study guide](https://pravalli.my.canva.site/habituation-sensitization-study-guide)
 
----
+## Topics Covered
 
-## 👩‍🔬 About the Author
+### Behavioural Evidence
 
-**Pravalli Matta**  
-*B.Tech-MSc Dual Degree Student in Cognitive Science*  
-**Indian Institute of Technology (IIT) Gandhinagar**  
-*Research Focus: learning and memory, Decision-making, fMRI, EEG, Neural Correlates, and Cognitive Psychology.*
+- **Habituation:** a decrease in response after repeated presentation of a harmless stimulus.
+- **Sensitization:** an increased response following a strong or noxious stimulus.
+- **Spontaneous recovery:** the return of a habituated response after a period of rest.
+- **Dishabituation:** the recovery of a habituated response after a strong, unrelated stimulus.
 
+### Neural Circuit
+
+The guide introduces the gill-withdrawal reflex circuit, including sensory neurons, motor neurons, and modulatory interneurons. It uses the sensory-to-motor connection to explain how changes at a synapse can alter the strength of a behavioural response.
+
+### Synaptic and Molecular Mechanisms
+
+The guide contrasts homosynaptic depression, associated with habituation, with heterosynaptic facilitation, associated with sensitization. It follows the serotonin (5-HT) signalling pathway through cAMP and protein kinase A (PKA) to changes in potassium-channel activity and transmitter release.
+
+It also distinguishes short-term facilitation from long-term changes, including CREB-related gene expression and the formation of additional synaptic connections.
+
+## Purpose
+
+The aim is to connect observable behaviour with changes at the level of neural circuits, synapses, and intracellular signalling. The guide is a learning resource based on established Aplysia research; it does not report a new experiment.
+
+## Project Format
+
+Interactive study guide designed in Canva.
+
+**Author:** Pravalli Matta
